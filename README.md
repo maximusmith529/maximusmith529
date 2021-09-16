@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maximusmith529, a gamer and software engineer!
 - 👀 I’m interested in learning more about coding and having some real work experience.
 - 🌱 I’m currently learning C..
-- 💞️ I’m looking to collaborate on my resume~
+- 💞️ I’m looking for internships and to collaborate on my resume~
 - 📫 How to reach me: 
 - Email: MaximusSmith@Knights.ucf.edu
 - LinkedIn: https://linkedin.com/in/maximusmith
