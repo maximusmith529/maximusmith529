@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C..
 - 💞️ I’m looking for internships and to collaborate on my resume~
 - 📫 How to reach me: 
-- Email: MaximusSmith@Knights.ucf.edu
+- Email: maximusmith529@gmail.com
 - LinkedIn: https://linkedin.com/in/maximusmith
 
 <!---
