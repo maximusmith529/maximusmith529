@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @maximusmith529, a gamer and software engineer!
-- 👀 I’m interested in learning more about coding and having some real work experience.
-- 🌱 I’m currently learning C..
-- 💞️ I’m looking for internships and to collaborate on my resume~
+- 👋 Hi, I’m @maximusmith529, a gamer and a growing software developer!
+- 👀 My latest accomplishment was Saberfy, which one best first time hacker at ShellHacks and 2nd place overall! Check it out at [it's project page](https://github.com/maximusmith529/Saberfy#readme).
+- 🌱 I’m currently preparing to attend HackGT! Expect to see me there October 21. 
+- 💞️ Currently I'm hoping to be able to secure an internship for the Summer and learn more about software design.
+
 - 📫 How to reach me: 
 - Email: maximusmith529@gmail.com
 - LinkedIn: https://linkedin.com/in/maximusmith
