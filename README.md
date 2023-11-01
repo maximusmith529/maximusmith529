@@ -1,4 +1,4 @@
-# Hi I'm Maximus Smith
+# Hi! I'm Maximus Smith
 
 📞 Reach out at: (561)-379-9908  
 📧 Shoot me an email: [maximusmith529@gmail.com](mailto:maximusmith529@gmail.com)  
