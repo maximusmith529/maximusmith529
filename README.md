@@ -14,6 +14,9 @@ I'm a Computer Science student from the University of Central Florida, ready to 
 **Certifications**: Microsoft SQL Server, Unity, Android Studio  
 
 ## Experience 🔍
+**Abbott**:
+- **Software Engineer Intern** (October 2023 - Present): Working on message bus systems using GO and various developer tools.
+
 **Meta**:  
 - **Software Engineer Intern** (May 2023 - August 2023): Enhanced the Global Search functionality, contributed to launching features to a world-wide audience, and boosted system security.  
 - **University Software Engineer Intern** (May 2022 - August 2022): Spearheaded the creation of "Progress", a mobile app focused on positive routine reinforcement, while diving deep into the Android SDK.
@@ -27,9 +30,6 @@ I'm a Computer Science student from the University of Central Florida, ready to 
 ## Projects Showcase 🌟
 - **[Saberfy](https://github.com/maximusmith529/Saberfy)**: Transmuted Spotify tracks into rhythmic beats via Python, APIs, and some JSON magic.  
 - **[Sea the Future](https://github.com/maximusmith529/Sea-the-Future)**: Led a team in developing an app visualizing the future of sea levels with C#, Unreal Augmented Reality and Mobile Development.
-
-## On the Hunt 🔍
-Heads up! I'm scouting for internships for the summer of 2023. If you've got an exciting role or a groundbreaking project, or if you're just looking to talk, get in contact!
 
 <!---
 maximusmith529/maximusmith529 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
