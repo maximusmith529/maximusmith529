@@ -24,8 +24,8 @@ I'm a Computer Science student from the University of Central Florida, ready to 
 **Cybernet Technologies**:  
 - **Network Intern** (May 2017 - August 2021): Worked on WAN network setups, server management, and network security.
 
-## Current Projects 🛠️
-- **StoryForge**: Leading a team in creating a unique solo player adventure game utilizing AI tech. Dive in and explore! [Check it out](https://devpost.com/software/storyforge)
+## Current Project 🛠️
+**StoryForge**: Leading a team in creating a unique solo player adventure game utilizing AI tech. Dive in and explore! [Check it out](https://devpost.com/software/storyforge)
 
 ## Projects Showcase 🌟
 - **[Saberfy](https://github.com/maximusmith529/Saberfy)**: Transmuted Spotify tracks into rhythmic beats via Python, APIs, and some JSON magic.  
